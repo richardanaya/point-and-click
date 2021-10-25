@@ -2,6 +2,8 @@
 name = "point-and-click"
 version = "0.0.0"
 edition = "2021"
+description = "A library for building point and click adventure games"
+license="MIT OR Apache-2.0"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
@@ -10,3 +12,4 @@ pixels = "0.7"
 winit = "0.25"
 winit_input_helper = "0.10"
 web-audio-api="0"
+web-local-storage-api="0"
